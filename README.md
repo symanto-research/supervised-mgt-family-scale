@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Replicate experiments
 
-Make sure to have the AuTexTification datasets unzipped.
+Make sure to have the AuTexTification datasets unzipped in `data/train` and `data/test`.
 ```bash
 ./run.sh
 ```
