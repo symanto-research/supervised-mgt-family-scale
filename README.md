@@ -16,3 +16,7 @@ Make sure to have the AuTexTification datasets unzipped in `data/train` and `dat
 ```bash
 ./run.sh
 ```
+
+# Analysis
+
+For the analysis results in `analysis/` we used [textstat](https://github.com/textstat/textstat)
