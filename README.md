@@ -1,6 +1,6 @@
 # Generator Variance Robustness
 
-Code and additional results for the paper "How Robust are Machine-Generated Text Detectors Under Generator Variance?"
+Code and additional results for the paper "Supervised Machine-Generated Text Detectors: Family and Scale Matters"
 
 # Usage
 
